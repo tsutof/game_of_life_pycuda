@@ -37,4 +37,19 @@ $ pip3 install pycuda --user
 - Install this application.
 
 ```
+$  git clone https://github.com/tsutof/game_of_life_pycuda
 ```
+
+## Usage
+
+```
+$ python3 lifegame.py
+```
+
+```
+optional arguments:
+  -h, --help  show this help message and exit
+  --cpu       Run by CPU
+```
+
+ 
