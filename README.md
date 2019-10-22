@@ -1,5 +1,5 @@
 # game_of_life_pycuda
-**Conway's Game of Life with PyCUDA**
+**An Implementation of Conway's Game of Life with PyCUDA**
 
-
+<img src="./screencast.gif" alt="Screencast" title="Screencast">
 
