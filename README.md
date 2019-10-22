@@ -10,6 +10,7 @@ This application executes Conway's Game of Life accelerated by PyCUDA.
 ## Prerequisites
 
 CUDA-enabled system
+
 This application is tested with NVIDIA Jetson Nano Developer Kit.
 
 ## Installation
