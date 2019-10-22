@@ -178,7 +178,8 @@ def run_loop(stdscr, *args):
         gen += 1
 
 def main():
-    parser = argparse.ArgumentParser(description='Life Game Accelerated by CUDA')
+    parser = argparse.ArgumentParser( \
+        description='An Implementation of Conway\'s Game of Life with PyCUDA')
     parser.add_argument('--cpu', action='store_true', \
         help='Run by CPU')
     args = parser.parse_args()
