@@ -13,7 +13,7 @@ CUDA-enabled system
 
 This application is tested with NVIDIA Jetson Nano Developer Kit.
 
-## Installation
+## Installation (for Jetson Nano Developer Kit with JetPack 4.2.2)
 
 - Add the CUDA toolkit path. (Add the following setting to .bashrc)
 
